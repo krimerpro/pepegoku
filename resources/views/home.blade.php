@@ -20,10 +20,13 @@
             <p class="fxt-paragraph translate-bottom-50 transition-100 transition-delay-800">Pepe Goku is a mix between Pepe and Goku. He can rule the cryptocurrency world with his new powers</p>
             <ul class="fxt-btn-group translate-zoomout-10 transition-100 transition-delay-1000">
                 <li class="fxt-single-item">
-                    <a class="fxt-btn-fill" target="_blank" href="https://t.me/PepeGokuOfficial">JOIN US</a>
+                    <a class="fxt-btn-fill" target="_blank" href="https://t.me/PepeGokuPortal">JOIN US</a>
                 </li>
                 <li class="fxt-single-item">
                     <a class="fxt-btn-fill" target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/">DEXTOOLS CHART</a>
+                </li>
+                <li class="fxt-single-item">
+                    <a class="fxt-btn-fill" target="_blank" href="https://twitter.com/PepeGokuChannel">TWITTER</a>
                 </li>
             </ul>
             <div class="fxt-copyright translate-top-50 transition-100 transition-delay-1700">&copy; 2023 PEPEGOKU — All Rights Reserved.</div>

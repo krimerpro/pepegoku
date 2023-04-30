@@ -8,7 +8,7 @@
 <meta name="author" content="PEPEGOKU">
 
 <title>PEPE GOKU</title>
-<link rel="icon" type="image/x-icon" href="{{ asset('images/favicon.png') }}" sizes="16x16">
+<link rel="icon" type="image/x-icon" href="{{ asset('images/logo.png') }}" sizes="16x16">
 
 <!-- Bootstrap CSS -->
 <link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">

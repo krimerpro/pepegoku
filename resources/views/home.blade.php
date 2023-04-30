@@ -23,12 +23,13 @@
                     <a class="fxt-btn-fill" target="_blank" href="https://t.me/PepeGokuPortal">JOIN US</a>
                 </li>
                 <li class="fxt-single-item">
-                    <a class="fxt-btn-fill" target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/">DEXTOOLS CHART</a>
+                    <a class="fxt-btn-fill" target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/0x17fb3d50fc1a018c1aa98e8dfa6a8ce501956994">DEXTOOLS CHART</a>
                 </li>
                 <li class="fxt-single-item">
                     <a class="fxt-btn-fill" target="_blank" href="https://twitter.com/PepeGokuChannel">TWITTER</a>
                 </li>
             </ul>
+            <p>Contract Address : <b>0x12f0b2a5687FA94D97c407FC2AB5A28F3683600d</b></p>
             <div class="fxt-copyright translate-top-50 transition-100 transition-delay-1700">&copy; 2023 PEPEGOKU — All Rights Reserved.</div>
         </div>
         <!-- Main Content End Here -->

@@ -15,7 +15,7 @@
                 <a href="#"><img src="{{ asset('img/logo.png') }}" style="width:300px"></a>
             </div>
 
-            <div class="fxt-sub-title translate-bottom-50 transition-100 transition-delay-400">ETHEREUM</div>
+            <div class="fxt-sub-title translate-bottom-50 transition-100 transition-delay-400">SMART CHAIN</div>
             <h1 class="fxt-main-title translate-bottom-50 transition-100 transition-delay-600">PEPE GOKU</h1>
             <p class="fxt-paragraph translate-bottom-50 transition-100 transition-delay-800">Pepe Goku is a mix between Pepe and Goku. He can rule the cryptocurrency world with his new powers</p>
             <ul class="fxt-btn-group translate-zoomout-10 transition-100 transition-delay-1000">
@@ -23,13 +23,13 @@
                     <a class="fxt-btn-fill" target="_blank" href="https://t.me/PepeGokuPortal">JOIN US</a>
                 </li>
                 <li class="fxt-single-item">
-                    <a class="fxt-btn-fill" target="_blank" href="https://www.dextools.io/app/en/ether/pair-explorer/0x17fb3d50fc1a018c1aa98e8dfa6a8ce501956994">DEXTOOLS CHART</a>
+                    <a class="fxt-btn-fill" target="_blank" href="https://poocoin.app/tokens/">POOCOIN CHART</a>
                 </li>
                 <li class="fxt-single-item">
                     <a class="fxt-btn-fill" target="_blank" href="https://twitter.com/PepeGokuChannel">TWITTER</a>
                 </li>
             </ul>
-            <p>Contract Address : <b>0x12f0b2a5687FA94D97c407FC2AB5A28F3683600d</b></p>
+            <p>Contract Address : <b>0x</b></p>
             <div class="fxt-copyright translate-top-50 transition-100 transition-delay-1700">&copy; 2023 PEPEGOKU — All Rights Reserved.</div>
         </div>
         <!-- Main Content End Here -->

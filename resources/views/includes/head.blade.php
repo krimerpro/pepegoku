@@ -4,10 +4,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <meta name="description" content="PEPE GOKU">
-<meta name="keywords" content="pepe, goku, pepegoku, ethereum, erc20">
+<meta name="keywords" content="pepe, goku, pepegoku, smartchain, bsc">
 <meta name="author" content="PEPEGOKU">
 
-<title>PEPE GOKU</title>
+<title>PEPE GOKU | SMART CHAIN - BEP20</title>
 <link rel="icon" type="image/x-icon" href="{{ asset('img/logo.png') }}" sizes="16x16">
 
 <!-- Bootstrap CSS -->
